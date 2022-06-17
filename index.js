@@ -2,9 +2,6 @@
  * @file vue 2.0实现，类似vue 1.0的事件功能
  * 扩展vue对象$trigger方法, 触发eventHub中的事件
  * 组件的监听事件写在events里面
- *
- * @author fanxingguang@baidu.com
- * 2017-03-15
  */
 import Vue from 'vue';
 
